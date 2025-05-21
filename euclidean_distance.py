@@ -1,3 +1,6 @@
+#Write a program to find the euclidean distance between two 
+#coordinates.Take both the coordinates from the user as input.
+
 x1=float(input("Enter value of x1 - "))
 y1=float(input("Enter value of y1 - "))
 x2=float(input("Enter value of x2 - "))
